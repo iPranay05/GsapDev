@@ -1,0 +1,5 @@
+{
+  "name": "GSAPGenie - Next.js & GSAP Site Builder",
+  "description": "An AI-powered generator that creates high-performance Next.js websites with Tailwind CSS and advanced GSAP scroll-triggered animations.",
+  "requestFramePermissions": []
+}
